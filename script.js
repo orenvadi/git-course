@@ -372,7 +372,7 @@
 
 // function addStylesTo(node, text, color='red', fontSize){
 // 	node.textContent = text
-// 	node.style.color = color
+// 	node.style.color = color 
 // 	node.style.textAlign = 'center'
 // 	node.style.backgroundColor = 'black'
 // 	node.style.padding = '2rem'
